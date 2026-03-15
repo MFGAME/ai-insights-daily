@@ -21,7 +21,7 @@ export default function Home() {
               href="/subscribe"
               className="bg-white text-primary-600 px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition inline-block"
             >
-              开始订阅 - ¥29/月
+              立即订阅 - ¥99终身
             </Link>
           </div>
         </div>
@@ -130,7 +130,7 @@ export default function Home() {
             href="/subscribe"
             className="bg-primary-600 text-white px-8 py-3 rounded-lg font-semibold hover:bg-primary-700 transition inline-block"
           >
-            立即订阅 - ¥29/月
+            立即订阅 - ¥99终身
           </Link>
         </div>
       </section>

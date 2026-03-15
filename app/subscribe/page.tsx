@@ -88,9 +88,9 @@ export default function SubscribePage() {
                 会员版
               </h2>
               <div className="text-5xl font-bold mb-2">
-                ¥29
+                ¥99
               </div>
-              <p className="text-primary-100">每月</p>
+              <p className="text-primary-100">终身访问</p>
             </div>
             <ul className="space-y-3 mb-8">
               <li className="flex items-start gap-2">
